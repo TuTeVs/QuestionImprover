@@ -1,3 +1,6 @@
+pipenv install python-dotenv
+pipenv install langchain
+
 To run:
 
 - in terminal: "jupyter notebook"
