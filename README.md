@@ -1,11 +1,3 @@
-pipenv install python-dotenv
-pipenv install langchain
-
-To run:
-
-- in terminal: "jupyter notebook"
-  - make sure I've opened the folder that I want jupyter notebook to open
-
 # 🧠 AI for Inquiry - The Question Improver Agent
 The Question Improver Agent is an LLM-driven "tool for thought" designed to elevate the quality and depth of user-posed questions. It utilizes a novel reasoning algorithm integrating diverse expert personas and a graph-based reasoning rhythm to systematically refine questions, making them more insightful, thought-provoking and suited for in-depth exploration across various domains, such as academic research, business strategy, or personal inquiry.
 
